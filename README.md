@@ -5,6 +5,7 @@ A repository which performs binary segmentation on large scale real world datase
 DATASET
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The data for training can be downloaded from the link provided below:
+https://tubcloud.tu-berlin.de/s/mmscw6ZeQCBTy9r
 
 You can use your own data by running patches.py where the large images will be cropped into patches which can be saved into the data folder under the subfolders as shown above.
 
